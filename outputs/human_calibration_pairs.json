@@ -1,0 +1,252 @@
+[
+  {
+    "target_id": "per-026",
+    "persona": "Dr. Daan de Vries",
+    "email_a_subject": "Question about your federated learning work",
+    "email_a_body": "I read your recent paper on federated learning for edge devices. Your approach to scalable architectures is very relevant to my current work. I am interested in how you handle heterogeneous environments and low-latency inference. Would you be open to sharing more details or discussing possible collaboration? Please let me know if you are available for a short call.",
+    "email_b_subject": "Award Nomination Request",
+    "email_b_body": "You have been selected for a possible award. We are reaching out to confirm your interest. Please reply to this email if you would like to be considered. More details will be shared after your response. Thank you for your attention.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-024",
+    "persona": "Dr. Deepa Reddy",
+    "email_a_subject": "Question about your work on encrypted network defense",
+    "email_a_body": "I read your recent paper on firewall technologies and encrypted communication. Your approach to network defense is very relevant to my current project. I am looking for insights from researchers active in this area. Would you be open to a short discussion or sharing your thoughts? Your experience would be very helpful.",
+    "email_b_subject": "Invitation to Join Editorial Board",
+    "email_b_body": "We are looking for new members to join our journal editorial board. Your background may be a good fit. If you are interested, please reply to this email. We can share more details about the process. Thank you for considering this opportunity.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-020",
+    "persona": "Dr. Ethan Brown",
+    "email_a_subject": "Invitation to Networking Event",
+    "email_a_body": "You are invited to a networking event for researchers. This is a good chance to meet others and share ideas. The event will be online. More details will be sent soon. Please reply if you are interested in joining.",
+    "email_b_subject": "Question about your IoT security work",
+    "email_b_body": "I read your recent paper on intrusion detection for IoT networks. Your approach to adaptive methods is very relevant to my current work. I am interested in how you handle evolving threats in connected devices. Would you be open to a short discussion about your techniques and possible collaboration?",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-012",
+    "persona": "Dr. Charlotte Graves",
+    "email_a_subject": "Question about your recent work on AI and threat detection",
+    "email_a_body": "I read your recent paper on adaptive intrusion detection for IoT. I am working on similar AI-based methods for network security. Your approach to encrypted traffic analysis is very relevant to my project. Would you be open to a short discussion or sharing more about your methods? I believe your insights could help address some challenges I am facing.",
+    "email_b_subject": "Request to Review Manuscript",
+    "email_b_body": "Hello, we are looking for someone to review a manuscript. The topic is general and does not require special knowledge. Please let us know if you are available. Your feedback would be helpful. Reply to this email if you are interested. Thank you for your time.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-005",
+    "persona": "Dr. Raj Kumar",
+    "email_a_subject": "Question about your work on network security",
+    "email_a_body": "I read your recent paper on intrusion detection for IoT. Your approach to adaptive methods in network security is very relevant to my current project. I am interested in how you handle real-time threats using AI. Would you be open to a short discussion about possible collaboration or sharing insights? Please let me know if you are available.",
+    "email_b_subject": "Possible Collaboration Opportunity",
+    "email_b_body": "Hello,\n\nI am reaching out to see if you are interested in a possible collaboration. I think we could work together on something in the future. Please let me know if you want to discuss this more. Looking forward to your reply.\n\nThank you.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-046",
+    "persona": "Dr. Chidi Okonkwo",
+    "email_a_subject": "Interest in your work on federated learning and embedded systems",
+    "email_a_body": "I have read your recent paper on federated learning for embedded devices. Your approach to energy-efficient neural network deployment is very relevant to my current project. I am seeking contributors with expertise in this area. Would you be interested in sharing your insights or collaborating? Please let me know if you are open to further discussion.",
+    "email_b_subject": "Award Nomination Request",
+    "email_b_body": "You have been selected for a possible award. We are reaching out to confirm your interest. Please reply to this email if you would like to be considered. More details will be shared after your response. Thank you for your attention.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-027",
+    "persona": "Dr. Ngozi Adebayo",
+    "email_a_subject": "Panel on ML for Low-Bandwidth Networks",
+    "email_a_body": "I read your recent work on adaptive federated learning for low-bandwidth networks. Your focus on edge computing for resource-limited settings is very relevant to current challenges in ML systems. We are organizing a panel on scalable ML in similar environments. Would you be interested in joining a short call to discuss your possible participation?",
+    "email_b_subject": "Invitation to Upcoming Seminar Series",
+    "email_b_body": "You are invited to join our seminar series. The sessions will be held online soon. More details will be shared later. Please reply if you are interested in attending. We hope you can join us for these events.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-010",
+    "persona": "Dr. Nicolas Leroy",
+    "email_a_subject": "Interest in your work on secure network protocols",
+    "email_a_body": "I read your recent paper on adaptive intrusion detection for IoT networks. Your approach to secure routing and encrypted traffic analysis is very relevant to ongoing work in this area. I am looking for input from researchers with your background. Would you be open to sharing your perspective or discussing possible collaboration? Please reply if interested.",
+    "email_b_subject": "Invitation to Networking Event",
+    "email_b_body": "You are invited to a networking event for researchers. This is a good chance to meet others and share ideas. The event will be online. More details will be sent soon. Please reply if you are interested in joining.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-030",
+    "persona": "Dr. Ye-Jun Jung",
+    "email_a_subject": "Question about your edge computing work",
+    "email_a_body": "I read your recent paper on distributed machine learning for edge computing. Your approach to optimizing these systems is very relevant to my current project. I am interested in how you handled resource constraints in your experiments. Would you be open to a short discussion about your methods?",
+    "email_b_subject": "Invitation to Networking Event",
+    "email_b_body": "You are invited to a networking event for researchers. This is a good chance to meet others and share ideas. The event will be online. More details will be sent soon. Please reply if you are interested in joining.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-017",
+    "persona": "Dr. Fatima Al Mazrouei",
+    "email_a_subject": "Invitation to Upcoming Seminar Series",
+    "email_a_body": "You are invited to join our seminar series. The sessions will be held online soon. More details will be shared later. Please reply if you are interested in attending. We hope you can join us for these events.",
+    "email_b_subject": "Interest in your work on AI and network security",
+    "email_b_body": "I read your recent paper on adaptive intrusion detection for IoT in smart cities. Your approach to AI-driven threat detection is very relevant to current network security issues. I am interested in discussing possible collaboration on AI and blockchain solutions for urban networks. Would you be open to a short call to share ideas?",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-032",
+    "persona": "Dr. Sophie Dupont",
+    "email_a_subject": "Request to Review Manuscript",
+    "email_a_body": "Hello, we are looking for someone to review a manuscript. The topic is general and does not require special knowledge. Please let us know if you are available. Your feedback would be helpful. Reply to this email if you are interested. Thank you for your time.",
+    "email_b_subject": "Question about your work on energy-efficient ML hardware",
+    "email_b_body": "I read your recent paper on energy-efficient ML hardware. Your approach to improving system performance while reducing power use is very relevant to my current project. I am interested in how you handle trade-offs in hardware design for machine learning. Would you be open to a short discussion or sharing more details? I believe your insights could help guide my work.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-022",
+    "persona": "Dr. Sakura Yamamoto",
+    "email_a_subject": "Request to Review Manuscript",
+    "email_a_body": "Hello, we are looking for someone to review a manuscript. The topic is general and does not require special knowledge. Please let us know if you are available. Your feedback would be helpful. Reply to this email if you are interested. Thank you for your time.",
+    "email_b_subject": "Question about your work on secure routing",
+    "email_b_body": "I have been following your recent paper on secure routing in networked systems. Your approach to protecting IoT devices from new threats is very relevant to my current project. I am interested in discussing possible collaboration or feedback on related topics. Please let me know if you are open to a short conversation.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-013",
+    "persona": "Dr. Thomas Peeters",
+    "email_a_subject": "Invitation to Join Conference",
+    "email_a_body": "Hello,\n\nYou are invited to take part in an upcoming conference. We welcome your participation. Please reply if you are interested. More details will be shared soon.\n\nThank you.",
+    "email_b_subject": "Question about your work on secure network protocols",
+    "email_b_body": "I have been following your research on secure routing and intrusion detection in networked systems. Your recent work on adaptive methods for IoT security is especially relevant to my current project. I would appreciate your thoughts on practical challenges in this area. If you are open to a brief exchange, please let me know how best to connect.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-004",
+    "persona": "Dr. Anya Petrova",
+    "email_a_subject": "Invitation to Join Editorial Board",
+    "email_a_body": "We are looking for new members to join our journal editorial board. Your background may be a good fit. If you are interested, please reply to this email. We can share more details about the process. Thank you for considering this opportunity.",
+    "email_b_subject": "Question about your work on AI and 5G security",
+    "email_b_body": "I have been following your recent paper on AI methods for 5G network protection. Your approach to decentralized authentication is very relevant to my current project. I am interested in discussing possible collaboration or sharing ideas, as your research aligns closely with my focus. Would you be open to a short call to talk further?",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-040",
+    "persona": "Dr. Trevor Beauchamp",
+    "email_a_subject": "Invitation to Networking Event",
+    "email_a_body": "You are invited to a networking event for researchers. This is a good chance to meet others and share ideas. The event will be online. More details will be sent soon. Please reply if you are interested in joining.",
+    "email_b_subject": "Question about your recent work on edge computing",
+    "email_b_body": "I have been following your research on distributed machine learning for edge devices. Your recent paper on optimizing these systems was very relevant to my current project. I am interested in how you addressed scalability in your experiments. Would you be open to sharing more details or discussing possible collaboration? Please let me know if you are available for a short call.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-039",
+    "persona": "Dr. Chloe Taylor",
+    "email_a_subject": "Call for Papers - Submit Your Work",
+    "email_a_body": "We invite you to submit your papers for our upcoming publication. All topics are welcome. Please send your work by the deadline. For more details, reply to this email. We look forward to your submission. Thank you for your interest.",
+    "email_b_subject": "Question about your work on low-latency ML for IoT",
+    "email_b_body": "I have been reading your recent paper on low-latency machine learning for IoT devices. Your approach to scalable neural network architectures is very relevant to my current work. I am interested in discussing possible collaboration or sharing ideas. Would you be open to a short call to talk about this further?",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-011",
+    "persona": "Dr. Do-Yun Choi",
+    "email_a_subject": "Question about your recent work on 5G security",
+    "email_a_body": "I read your recent paper on intrusion detection in 5G networks. Your approach to adaptive threat response is very relevant to my current project. I am exploring similar methods in network security and would value your perspective. Would you be open to a short call to discuss your findings and possible collaboration?",
+    "email_b_subject": "Invitation to Workshop on Computer Science Trends",
+    "email_b_body": "You are invited to join a workshop about new trends in computer science. The event will cover general topics and updates. Please see the attached file for more details. Let us know if you are interested in attending. Thank you for your time.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-025",
+    "persona": "Dr. Wei Jie Ng",
+    "email_a_subject": "Possible Collaboration Opportunity",
+    "email_a_body": "Hello,\n\nI am reaching out to see if you are interested in a possible collaboration. I think we could work together on something in the future. Please let me know if you want to discuss this more. Looking forward to your reply.\n\nThank you.",
+    "email_b_subject": "Question about your secure edge computing work",
+    "email_b_body": "I read your recent paper on secure edge computing and found your approach to encrypted traffic analysis very relevant to my current project. I am exploring similar methods and would like to discuss possible collaboration or exchange of ideas. If you are interested, please let me know and I can share more details.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-036",
+    "persona": "Dr. Tariq Hassan",
+    "email_a_subject": "Award Nomination Request",
+    "email_a_body": "You have been selected for a possible award. We are reaching out to confirm your interest. Please reply to this email if you would like to be considered. More details will be shared after your response. Thank you for your attention.",
+    "email_b_subject": "Question about your edge computing and ML work",
+    "email_b_body": "I read your recent paper on distributed machine learning for edge computing. Your approach to optimizing systems in this area is very relevant to my current work. I am interested in your methods and would like to discuss possible collaboration or get your feedback on a related project. Please let me know if you are open to a short conversation.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-001",
+    "persona": "Dr. Jack O'Brien",
+    "email_a_subject": "Invitation to Workshop on Computer Science Trends",
+    "email_a_body": "You are invited to join a workshop about new trends in computer science. The event will cover general topics and updates. Please see the attached file for more details. Let us know if you are interested in attending. Thank you for your time.",
+    "email_b_subject": "Question about your encrypted traffic analysis work",
+    "email_b_body": "I read your recent paper on encrypted traffic analysis. Your approach to secure routing and network anomaly detection is very relevant to my current project. I am interested in discussing possible collaboration or feedback on related methods. If you are open to sharing insights or suggestions, please let me know.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-044",
+    "persona": "Dr. Siew Mei Chong",
+    "email_a_subject": "Invitation to Join Editorial Board",
+    "email_a_body": "We are looking for new members to join our journal editorial board. Your background may be a good fit. If you are interested, please reply to this email. We can share more details about the process. Thank you for considering this opportunity.",
+    "email_b_subject": "Question about your distributed ML systems work",
+    "email_b_body": "I read your recent paper on optimizing distributed ML systems for edge computing. Your approach to resource allocation is very relevant to my current project. I am interested in discussing possible collaboration or getting your feedback on related work. If you are open to this, please let me know and I can share more details.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  },
+  {
+    "target_id": "per-019",
+    "persona": "Dr. Ingrid Bergstrom",
+    "email_a_subject": "Question about your recent work on AI and network security",
+    "email_a_body": "I read your recent paper on AI methods for network threat detection. Your approach to decentralized defense is very relevant to my current research. I am interested in how you handle real-time data and adaptive responses. Would you be open to a short discussion about possible collaboration or sharing insights? Please let me know if you are available.",
+    "email_b_subject": "Call for Papers - Submit Your Work",
+    "email_b_body": "We invite you to submit your papers for our upcoming publication. All topics are welcome. Please send your work by the deadline. For more details, reply to this email. We look forward to your submission. Thank you for your interest.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-034",
+    "persona": "Dr. Tal Avraham",
+    "email_a_subject": "Question about your work on adaptive scheduling",
+    "email_a_body": "I read your recent paper on adaptive scheduling in distributed machine learning. The approach you used for optimizing workloads is very relevant to my current research. I am interested in how you handled resource allocation in large-scale systems. Could you share more details or discuss your methods? I believe your insights could help with a similar problem I am facing.",
+    "email_b_subject": "Invitation to Join Editorial Board",
+    "email_b_body": "We are looking for new members to join our journal editorial board. Your background may be a good fit. If you are interested, please reply to this email. We can share more details about the process. Thank you for considering this opportunity.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-049",
+    "persona": "Dr. Min-Jun Kang",
+    "email_a_subject": "Question about your edge computing work",
+    "email_a_body": "I read your recent paper on distributed ML systems for edge computing. Your approach to optimizing resource use is very relevant to my current project. I am interested in discussing possible collaboration or feedback on related methods. If you are open to a short call or email exchange, please let me know.",
+    "email_b_subject": "Call for Papers - Submit Your Work",
+    "email_b_body": "We invite you to submit your papers for our upcoming publication. All topics are welcome. Please send your work by the deadline. For more details, reply to this email. We look forward to your submission. Thank you for your interest.",
+    "a_is": "C+ (personalized)",
+    "b_is": "C- (generic)"
+  },
+  {
+    "target_id": "per-042",
+    "persona": "Dr. Katri Saar",
+    "email_a_subject": "Request to Review Manuscript",
+    "email_a_body": "Hello, we are looking for someone to review a manuscript. The topic is general and does not require special knowledge. Please let us know if you are available. Your feedback would be helpful. Reply to this email if you are interested. Thank you for your time.",
+    "email_b_subject": "Question about your distributed ML work",
+    "email_b_body": "I have been following your research on distributed machine learning systems. Your recent work on optimizing these systems for edge environments is very relevant to my current project. I am interested in your approach to scalable deployment. Would you be open to a short call to discuss possible collaboration or share insights? Thank you for considering this.",
+    "a_is": "C- (generic)",
+    "b_is": "C+ (personalized)"
+  }
+]

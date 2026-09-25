@@ -1,0 +1,68 @@
+{
+  "claude-sonnet-4-6": {
+    "S+C+_vs_S-C-": {
+      "rate": 0.081,
+      "ci_low": 0.02,
+      "ci_high": 0.163
+    },
+    "S+C-_vs_S-C+": {
+      "rate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0
+    },
+    "S+C-_vs_S-C-": {
+      "rate": 0.081,
+      "ci_low": 0.02,
+      "ci_high": 0.163
+    },
+    "S-C+_vs_S-C-": {
+      "rate": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0
+    }
+  },
+  "deepseek-chat": {
+    "S+C+_vs_S-C-": {
+      "rate": 0.122,
+      "ci_low": 0.041,
+      "ci_high": 0.224
+    },
+    "S+C-_vs_S-C+": {
+      "rate": 0.061,
+      "ci_low": 0.0,
+      "ci_high": 0.143
+    },
+    "S+C-_vs_S-C-": {
+      "rate": 0.122,
+      "ci_low": 0.041,
+      "ci_high": 0.224
+    },
+    "S-C+_vs_S-C-": {
+      "rate": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0
+    }
+  },
+  "gpt-4.1-mini": {
+    "S+C+_vs_S-C-": {
+      "rate": 0.081,
+      "ci_low": 0.02,
+      "ci_high": 0.163
+    },
+    "S+C-_vs_S-C+": {
+      "rate": 0.491,
+      "ci_low": 0.347,
+      "ci_high": 0.633
+    },
+    "S+C-_vs_S-C-": {
+      "rate": 0.081,
+      "ci_low": 0.02,
+      "ci_high": 0.163
+    },
+    "S-C+_vs_S-C-": {
+      "rate": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0
+    }
+  }
+}

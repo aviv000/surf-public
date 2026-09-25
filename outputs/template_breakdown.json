@@ -1,0 +1,172 @@
+{
+  "Workshop": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.2,
+      "wins": 1,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Review\nRequest": {
+    "gpt-4.1-mini": {
+      "win_rate": 1.0,
+      "wins": 5,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.2,
+      "wins": 1,
+      "total": 5
+    }
+  },
+  "Conference": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Editorial\nBoard": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.8,
+      "wins": 4,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Collaboration": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.6,
+      "wins": 3,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Award": {
+    "gpt-4.1-mini": {
+      "win_rate": 1.0,
+      "wins": 5,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.2,
+      "wins": 1,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.8,
+      "wins": 4,
+      "total": 5
+    }
+  },
+  "Seminar": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.6,
+      "wins": 3,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Feedback": {
+    "gpt-4.1-mini": {
+      "win_rate": 1.0,
+      "wins": 5,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.2,
+      "wins": 1,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.4,
+      "wins": 2,
+      "total": 5
+    }
+  },
+  "CFP": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.4,
+      "wins": 2,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  },
+  "Networking": {
+    "gpt-4.1-mini": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "deepseek-chat": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    },
+    "claude-sonnet-4-6": {
+      "win_rate": 0.0,
+      "wins": 0,
+      "total": 5
+    }
+  }
+}

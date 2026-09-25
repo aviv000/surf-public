@@ -1,0 +1,31 @@
+tid,domain,field,model,winner,confidence
+med-001,medicine,cardiology,gpt-4.1-mini,A,4
+med-001,medicine,cardiology,deepseek-chat,A,4
+med-001,medicine,cardiology,claude-sonnet-4-6,A,4
+med-002,medicine,oncology,gpt-4.1-mini,A,5
+med-002,medicine,oncology,deepseek-chat,A,5
+med-002,medicine,oncology,claude-sonnet-4-6,A,4
+med-003,medicine,neurology,gpt-4.1-mini,A,4
+med-003,medicine,neurology,deepseek-chat,A,4
+med-003,medicine,neurology,claude-sonnet-4-6,A,3
+med-004,medicine,immunology,gpt-4.1-mini,A,4
+med-004,medicine,immunology,deepseek-chat,A,4
+med-004,medicine,immunology,claude-sonnet-4-6,?,0
+med-005,medicine,epidemiology,gpt-4.1-mini,A,4
+med-005,medicine,epidemiology,deepseek-chat,A,4
+med-005,medicine,epidemiology,claude-sonnet-4-6,B,3
+law-001,law,constitutional law,gpt-4.1-mini,A,5
+law-001,law,constitutional law,deepseek-chat,A,5
+law-001,law,constitutional law,claude-sonnet-4-6,A,4
+law-002,law,international law,gpt-4.1-mini,A,4
+law-002,law,international law,deepseek-chat,A,4
+law-002,law,international law,claude-sonnet-4-6,A,4
+law-003,law,criminal law,gpt-4.1-mini,A,4
+law-003,law,criminal law,deepseek-chat,A,4
+law-003,law,criminal law,claude-sonnet-4-6,A,4
+law-004,law,corporate law,gpt-4.1-mini,A,4
+law-004,law,corporate law,deepseek-chat,A,4
+law-004,law,corporate law,claude-sonnet-4-6,A,4
+law-005,law,environmental law,gpt-4.1-mini,A,4
+law-005,law,environmental law,deepseek-chat,A,5
+law-005,law,environmental law,claude-sonnet-4-6,A,4

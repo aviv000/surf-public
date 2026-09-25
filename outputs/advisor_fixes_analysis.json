@@ -1,0 +1,26 @@
+{
+  "selection_bias": {
+    "failed_n": 28,
+    "succeeded_n": 22,
+    "failed_word_count_mean": 25.178571428571427,
+    "succeeded_word_count_mean": 7.863636363636363,
+    "failed_entity_count_mean": 2.2857142857142856,
+    "succeeded_entity_count_mean": 0.5909090909090909
+  },
+  "content_gaps": {
+    "high_surface_gap_mean": -149.44,
+    "low_surface_gap_mean": 15.14,
+    "high_surface_wc": {
+      "S+C+": 17.56,
+      "S+C-": 167.0,
+      "S-C+": 55.64,
+      "S-C-": 40.5
+    },
+    "low_surface_wc": {
+      "S+C+": 17.56,
+      "S+C-": 167.0,
+      "S-C+": 55.64,
+      "S-C-": 40.5
+    }
+  }
+}

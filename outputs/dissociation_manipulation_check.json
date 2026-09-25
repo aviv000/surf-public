@@ -1,0 +1,54 @@
+{
+  "surface_scores": {
+    "S+C+": {
+      "mean_surface": 275.0,
+      "mean_wc": 175.6,
+      "mean_entities": 12.8
+    },
+    "S+C-": {
+      "mean_surface": 269.8,
+      "mean_wc": 167.8,
+      "mean_entities": 14.6
+    },
+    "S-C+": {
+      "mean_surface": 55.64,
+      "mean_wc": 55.64,
+      "mean_entities": 0.0
+    },
+    "S-C-": {
+      "mean_surface": 34.1,
+      "mean_wc": 34.1,
+      "mean_entities": 0.0
+    }
+  },
+  "content_scores": {
+    "S+C+": {
+      "mean_content": 22.4,
+      "mean_research": 2.4,
+      "mean_cta": 0.0
+    },
+    "S+C-": {
+      "mean_content": 14.2,
+      "mean_research": 3.2,
+      "mean_cta": 0.0
+    },
+    "S-C+": {
+      "mean_content": 16.18,
+      "mean_research": 1.96,
+      "mean_cta": 0.34
+    },
+    "S-C-": {
+      "mean_content": 11.36,
+      "mean_research": 0.0,
+      "mean_cta": 0.0
+    }
+  },
+  "checks": {
+    "surface_cplus": true,
+    "surface_cminus": true,
+    "content_splus": true,
+    "content_sminus": true,
+    "dissociation": true
+  },
+  "verdict": "PASS"
+}

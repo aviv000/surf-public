@@ -1,0 +1,13 @@
+{
+  "n_raters": 3,
+  "n_pairs": 25,
+  "per_rater_accuracy": {
+    "Rater 1": 0.4166666666666667,
+    "Rater 2": 0.4166666666666667,
+    "Rater 3": 0.4166666666666667
+  },
+  "mean_accuracy": 0.4166666666666667,
+  "majority_cplus_wins": 5,
+  "majority_cminus_wins": 7,
+  "inter_rater_agreement": "100% (all 3 identical on all pairs)"
+}
