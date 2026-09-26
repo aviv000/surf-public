@@ -1,6 +1,6 @@
 # SURF: 2×2 Dissociation Protocol for Auditing Surface Bias in LLM-as-Judge Panels
 
-Code and data for the CCNC 2026 paper.
+Code and data for the CCNC 2027 paper.
 
 ## Data
 
