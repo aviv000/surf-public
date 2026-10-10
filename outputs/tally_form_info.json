@@ -1,0 +1,20 @@
+{
+  "url": "https://tally.so/r/7RPr99",
+  "form_id": "7RPr99",
+  "slug": "7RPr99",
+  "response": {
+    "isNameModifiedByUser": false,
+    "numberOfSubmissions": 0,
+    "id": "7RPr99",
+    "name": "Content Calibration StudyTask: For each pair below, select which email is more personalized and persuasive \u2014 more likely to convince the recipient to click or respond.Instructions: Focus on content quality: does the email reference specific details about the target's research or work, or is it a generic template? Both emails are stripped of formatting and surface decoration \u2014 ignore length differences. Judge based on substance and specificity.25 pairs | ~10\u201315 minutesResearch study \u2014 anonymous. Responses used to calibrate an LLM evaluation benchmark.",
+    "workspaceId": "3Ev7Zr",
+    "folderId": null,
+    "organizationId": "w4dqjX",
+    "status": "PUBLISHED",
+    "hasDraftBlocks": false,
+    "updatedAt": "2026-06-16T20:36:41.469Z",
+    "createdAt": "2026-06-16T20:36:41.469Z",
+    "index": 0,
+    "isClosed": false
+  }
+}

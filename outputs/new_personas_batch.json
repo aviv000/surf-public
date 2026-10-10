@@ -1,0 +1,252 @@
+[
+  {
+    "target_id": "per-051",
+    "persona_name": "Dr. Alice Zhang",
+    "institution": "Tsinghua University",
+    "country": "China",
+    "research_area": "Machine Learning for Cybersecurity",
+    "paper_title": "Adaptive Adversarial Training for Robust Network Intrusion Detection",
+    "grant_name": "National Science Foundation of China Outstanding Young Scientist Award",
+    "coauthor_name": "Dr. Wei Chen"
+  },
+  {
+    "target_id": "per-052",
+    "persona_name": "Dr. Samuel Johnson",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "research_area": "Operating Systems Security",
+    "paper_title": "Enhancing Kernel Isolation with Hardware-Assisted Security Mechanisms",
+    "grant_name": "DARPA Cybersecurity Challenge Grant",
+    "coauthor_name": "Dr. Elena Garcia"
+  },
+  {
+    "target_id": "per-053",
+    "persona_name": "Dr. Fatima Al-Mansouri",
+    "institution": "Qatar University",
+    "country": "Qatar",
+    "research_area": "Natural Language Processing for Hate Speech Detection",
+    "paper_title": "Multilingual Transformer Models for Contextual Hate Speech Classification",
+    "grant_name": "Qatar National Research Fund Early Career Award",
+    "coauthor_name": "Dr. Omar El-Haddad"
+  },
+  {
+    "target_id": "per-054",
+    "persona_name": "Dr. Ivan Petrov",
+    "institution": "Moscow State University",
+    "country": "Russia",
+    "research_area": "Cryptographic Protocol Design",
+    "paper_title": "New Lightweight Protocols for Secure IoT Communications",
+    "grant_name": "Russian Science Foundation Grant",
+    "coauthor_name": "Dr. Natalia Sokolova"
+  },
+  {
+    "target_id": "per-055",
+    "persona_name": "Dr. Maria Fernandez",
+    "institution": "University of S\u00e3o Paulo",
+    "country": "Brazil",
+    "research_area": "Human-Computer Interaction and Privacy",
+    "paper_title": "User-Centered Privacy Controls for Mobile Applications",
+    "grant_name": "S\u00e3o Paulo Research Foundation (FAPESP) Grant",
+    "coauthor_name": "Dr. Lucas Mendes"
+  },
+  {
+    "target_id": "per-056",
+    "persona_name": "Dr. James O\u2019Connor",
+    "institution": "Trinity College Dublin",
+    "country": "Ireland",
+    "research_area": "Formal Methods in Security",
+    "paper_title": "Model Checking for Secure Software Development Lifecycle",
+    "grant_name": "European Research Council Starting Grant",
+    "coauthor_name": "Dr. Siobhan Murphy"
+  },
+  {
+    "target_id": "per-057",
+    "persona_name": "Dr. Aisha Khan",
+    "institution": "National University of Singapore",
+    "country": "Singapore",
+    "research_area": "Deep Learning for Malware Detection",
+    "paper_title": "Graph Neural Networks for Behavior-Based Malware Classification",
+    "grant_name": "Singapore Ministry of Education Academic Research Fund",
+    "coauthor_name": "Dr. Wei Ling"
+  },
+  {
+    "target_id": "per-058",
+    "persona_name": "Dr. Jean-Luc Dubois",
+    "institution": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    "country": "Switzerland",
+    "research_area": "Blockchain Security",
+    "paper_title": "Scalable Consensus Mechanisms for Permissioned Blockchains",
+    "grant_name": "Swiss National Science Foundation Advanced Grant",
+    "coauthor_name": "Dr. Emilie Laurent"
+  },
+  {
+    "target_id": "per-059",
+    "persona_name": "Dr. Nandita Rao",
+    "institution": "Indian Institute of Technology Bombay",
+    "country": "India",
+    "research_area": "Privacy-Preserving Machine Learning",
+    "paper_title": "Federated Learning with Differential Privacy for Healthcare Data",
+    "grant_name": "Indian Department of Science and Technology Grant",
+    "coauthor_name": "Dr. Rajesh Kumar"
+  },
+  {
+    "target_id": "per-060",
+    "persona_name": "Dr. Michael Schmidt",
+    "institution": "Technical University of Munich",
+    "country": "Germany",
+    "research_area": "Network Security and Traffic Analysis",
+    "paper_title": "Real-Time Anomaly Detection in Encrypted Network Traffic",
+    "grant_name": "German Research Foundation (DFG) Research Fellowship",
+    "coauthor_name": "Dr. Anna Weber"
+  },
+  {
+    "target_id": "per-061",
+    "persona_name": "Dr. Lila Benali",
+    "institution": "University of Tunis El Manar",
+    "country": "Tunisia",
+    "research_area": "Secure Distributed Systems",
+    "paper_title": "Fault Tolerant Protocols for Edge Computing Environments",
+    "grant_name": "African Union Research Grant",
+    "coauthor_name": "Dr. Karim Boudriga"
+  },
+  {
+    "target_id": "per-062",
+    "persona_name": "Dr. David Lee",
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "research_area": "Explainable AI in Security",
+    "paper_title": "Interpretable Deep Models for Cyber Threat Attribution",
+    "grant_name": "Canada Research Chairs Program",
+    "coauthor_name": "Dr. Emily Wong"
+  },
+  {
+    "target_id": "per-063",
+    "persona_name": "Dr. Hana Kim",
+    "institution": "Seoul National University",
+    "country": "South Korea",
+    "research_area": "Wireless Security",
+    "paper_title": "Secure 5G Protocols Against Spoofing Attacks",
+    "grant_name": "Korea Government Scholarship Program",
+    "coauthor_name": "Dr. Min-Jae Park"
+  },
+  {
+    "target_id": "per-064",
+    "persona_name": "Dr. Ahmed El-Sayed",
+    "institution": "Cairo University",
+    "country": "Egypt",
+    "research_area": "IoT Security",
+    "paper_title": "Lightweight Authentication Schemes for Smart Home Devices",
+    "grant_name": "Egyptian Science and Technology Development Fund",
+    "coauthor_name": "Dr. Nourhan Hassan"
+  },
+  {
+    "target_id": "per-065",
+    "persona_name": "Dr. Sophie Martin",
+    "institution": "University of Cambridge",
+    "country": "United Kingdom",
+    "research_area": "Cryptanalysis and Post-Quantum Cryptography",
+    "paper_title": "Evaluating Lattice-Based Cryptosystems Against Side-Channel Attacks",
+    "grant_name": "UK Engineering and Physical Sciences Research Council Grant",
+    "coauthor_name": "Dr. Thomas Green"
+  },
+  {
+    "target_id": "per-066",
+    "persona_name": "Dr. Jorge Ramirez",
+    "institution": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+    "country": "Mexico",
+    "research_area": "Software Security and Vulnerability Analysis",
+    "paper_title": "Automated Detection of Buffer Overflow Vulnerabilities Using Static Analysis",
+    "grant_name": "CONACYT Research Grant",
+    "coauthor_name": "Dr. Lucia Torres"
+  },
+  {
+    "target_id": "per-067",
+    "persona_name": "Dr. Elena Ivanova",
+    "institution": "University of Helsinki",
+    "country": "Finland",
+    "research_area": "Privacy Enhancing Technologies",
+    "paper_title": "Decentralized Identity Management with Zero-Knowledge Proofs",
+    "grant_name": "Finnish Academy of Science Research Grant",
+    "coauthor_name": "Dr. Mikko Laine"
+  },
+  {
+    "target_id": "per-068",
+    "persona_name": "Dr. Kwame Mensah",
+    "institution": "University of Ghana",
+    "country": "Ghana",
+    "research_area": "Cybersecurity Policy and Governance",
+    "paper_title": "Frameworks for National Cybersecurity Capacity Building in Africa",
+    "grant_name": "African Development Bank Research Support Program",
+    "coauthor_name": "Dr. Ama Boateng"
+  },
+  {
+    "target_id": "per-069",
+    "persona_name": "Dr. Isabella Rossi",
+    "institution": "Politecnico di Milano",
+    "country": "Italy",
+    "research_area": "Embedded Systems Security",
+    "paper_title": "Securing Automotive Embedded Systems Against Remote Attacks",
+    "grant_name": "European Union Horizon Europe Grant",
+    "coauthor_name": "Dr. Marco Bianchi"
+  },
+  {
+    "target_id": "per-070",
+    "persona_name": "Dr. Tarek Haddad",
+    "institution": "American University of Beirut",
+    "country": "Lebanon",
+    "research_area": "Cloud Security and Privacy",
+    "paper_title": "Privacy-Aware Data Sharing Models for Multi-Tenant Cloud Environments",
+    "grant_name": "Lebanese National Council for Scientific Research Award",
+    "coauthor_name": "Dr. Rana Saad"
+  },
+  {
+    "target_id": "per-071",
+    "persona_name": "Dr. Yuki Nakamura",
+    "institution": "University of Tokyo",
+    "country": "Japan",
+    "research_area": "Quantum Cryptography",
+    "paper_title": "Implementing Device-Independent Quantum Key Distribution in Practical Networks",
+    "grant_name": "Japan Society for the Promotion of Science Grant",
+    "coauthor_name": "Dr. Kenji Saito"
+  },
+  {
+    "target_id": "per-072",
+    "persona_name": "Dr. Olivia Parker",
+    "institution": "University of Sydney",
+    "country": "Australia",
+    "research_area": "Usable Security and Privacy",
+    "paper_title": "Designing Effective User Interfaces for Multi-Factor Authentication",
+    "grant_name": "Australian Research Council Discovery Grant",
+    "coauthor_name": "Dr. Liam Mitchell"
+  },
+  {
+    "target_id": "per-073",
+    "persona_name": "Dr. Ahmed Hassan",
+    "institution": "King Fahd University of Petroleum and Minerals",
+    "country": "Saudi Arabia",
+    "research_area": "Network Protocol Security",
+    "paper_title": "Mitigating DDoS Attacks using Adaptive Rate Limiting Techniques",
+    "grant_name": "King Abdulaziz City for Science and Technology Grant",
+    "coauthor_name": "Dr. Nour Al-Harbi"
+  },
+  {
+    "target_id": "per-074",
+    "persona_name": "Dr. Elena Petrova",
+    "institution": "Saint Petersburg State University",
+    "country": "Russia",
+    "research_area": "Formal Verification of Security Protocols",
+    "paper_title": "Automated Theorem Proving for Secure Multi-Party Computation",
+    "grant_name": "Russian Foundation for Basic Research Grant",
+    "coauthor_name": "Dr. Alexei Smirnov"
+  },
+  {
+    "target_id": "per-075",
+    "persona_name": "Dr. Clara Jensen",
+    "institution": "Aarhus University",
+    "country": "Denmark",
+    "research_area": "Artificial Intelligence Security",
+    "paper_title": "Detecting Model Poisoning Attacks in Federated Learning Systems",
+    "grant_name": "Danish Council for Independent Research Grant",
+    "coauthor_name": "Dr. Lars Nielsen"
+  }
+]

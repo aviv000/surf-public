@@ -1,0 +1,117 @@
+{
+  "win_rates": {
+    "claude-sonnet-4-6": {
+      "S+C+_vs_S-C-": {
+        "wins_A": 4,
+        "total": 49,
+        "rate_A": 0.082
+      },
+      "S+C-_vs_S-C+": {
+        "wins_A": 0,
+        "total": 49,
+        "rate_A": 0.0
+      },
+      "S+C-_vs_S-C-": {
+        "wins_A": 4,
+        "total": 49,
+        "rate_A": 0.082
+      },
+      "S-C+_vs_S-C-": {
+        "wins_A": 49,
+        "total": 49,
+        "rate_A": 1.0
+      }
+    },
+    "deepseek-chat": {
+      "S+C+_vs_S-C-": {
+        "wins_A": 6,
+        "total": 49,
+        "rate_A": 0.122
+      },
+      "S+C-_vs_S-C+": {
+        "wins_A": 3,
+        "total": 49,
+        "rate_A": 0.061
+      },
+      "S+C-_vs_S-C-": {
+        "wins_A": 6,
+        "total": 49,
+        "rate_A": 0.122
+      },
+      "S-C+_vs_S-C-": {
+        "wins_A": 49,
+        "total": 49,
+        "rate_A": 1.0
+      }
+    },
+    "gpt-4.1-mini": {
+      "S+C+_vs_S-C-": {
+        "wins_A": 4,
+        "total": 49,
+        "rate_A": 0.082
+      },
+      "S+C-_vs_S-C+": {
+        "wins_A": 24,
+        "total": 49,
+        "rate_A": 0.49
+      },
+      "S+C-_vs_S-C-": {
+        "wins_A": 4,
+        "total": 49,
+        "rate_A": 0.082
+      },
+      "S-C+_vs_S-C-": {
+        "wins_A": 49,
+        "total": 49,
+        "rate_A": 1.0
+      }
+    }
+  },
+  "dissociation": {
+    "claude-sonnet-4-6": {
+      "prefer_surface": 0,
+      "prefer_content": 49,
+      "total": 49,
+      "surface_win_rate": 0.0
+    },
+    "deepseek-chat": {
+      "prefer_surface": 3,
+      "prefer_content": 46,
+      "total": 49,
+      "surface_win_rate": 0.061
+    },
+    "gpt-4.1-mini": {
+      "prefer_surface": 24,
+      "prefer_content": 25,
+      "total": 49,
+      "surface_win_rate": 0.49
+    }
+  },
+  "convergence": {
+    "S+C+_vs_S-C-": {
+      "min_rate": 0.082,
+      "max_rate": 0.122,
+      "range": 0.04,
+      "mean": 0.095
+    },
+    "S+C-_vs_S-C+": {
+      "min_rate": 0.0,
+      "max_rate": 0.49,
+      "range": 0.49,
+      "mean": 0.184
+    },
+    "S+C-_vs_S-C-": {
+      "min_rate": 0.082,
+      "max_rate": 0.122,
+      "range": 0.04,
+      "mean": 0.095
+    },
+    "S-C+_vs_S-C-": {
+      "min_rate": 1.0,
+      "max_rate": 1.0,
+      "range": 0.0,
+      "mean": 1.0
+    }
+  },
+  "total_judgments": 588
+}

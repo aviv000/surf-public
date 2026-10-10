@@ -1,0 +1,87 @@
+{
+  "S+C-_vs_S-C+": {
+    "gpt-4.1-mini|deepseek-chat": {
+      "agreement": 0.48,
+      "kappa": -0.20147874306839175,
+      "n": 50
+    },
+    "gpt-4.1-mini|claude-sonnet-4-6": {
+      "agreement": 0.76,
+      "kappa": 0.41972920696324956,
+      "n": 50
+    },
+    "deepseek-chat|claude-sonnet-4-6": {
+      "agreement": 0.72,
+      "kappa": 0.061662198391421064,
+      "n": 50
+    }
+  },
+  "S+C+_vs_S+C-": {
+    "gpt-4.1-mini|deepseek-chat": {
+      "agreement": 0.1,
+      "kappa": -0.8174474959612277,
+      "n": 50
+    },
+    "gpt-4.1-mini|claude-sonnet-4-6": {
+      "agreement": 1.0,
+      "kappa": 1.0,
+      "n": 50
+    },
+    "deepseek-chat|claude-sonnet-4-6": {
+      "agreement": 0.1,
+      "kappa": -0.8174474959612277,
+      "n": 50
+    }
+  },
+  "S-C+_vs_S-C-": {
+    "gpt-4.1-mini|deepseek-chat": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    },
+    "gpt-4.1-mini|claude-sonnet-4-6": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    },
+    "deepseek-chat|claude-sonnet-4-6": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    }
+  },
+  "S+C-_vs_S-C-": {
+    "gpt-4.1-mini|deepseek-chat": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    },
+    "gpt-4.1-mini|claude-sonnet-4-6": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    },
+    "deepseek-chat|claude-sonnet-4-6": {
+      "agreement": 1.0,
+      "kappa": NaN,
+      "n": 50
+    }
+  },
+  "S+C+_vs_S-C-": {
+    "gpt-4.1-mini|deepseek-chat": {
+      "agreement": 0.8,
+      "kappa": 0.4813278008298756,
+      "n": 50
+    },
+    "gpt-4.1-mini|claude-sonnet-4-6": {
+      "agreement": 0.86,
+      "kappa": 0.5205479452054795,
+      "n": 50
+    },
+    "deepseek-chat|claude-sonnet-4-6": {
+      "agreement": 0.82,
+      "kappa": 0.4444444444444444,
+      "n": 50
+    }
+  }
+}

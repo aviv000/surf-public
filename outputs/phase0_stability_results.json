@@ -1,0 +1,186 @@
+{
+  "overall_verdict": "PASS",
+  "n_seeds": 5,
+  "n_discovery": 50,
+  "n_total_personas": 100,
+  "jaccard_agreement": {
+    "gpt-4.1-mini": {
+      "mean_jaccard": 0.65,
+      "pairwise_jaccards": [
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "feature_frequencies": {
+        "cta_cue_count": 3,
+        "word_count": 5,
+        "named_entity_count": 5,
+        "pronoun_first": 1,
+        "flesch_kincaid_grade": 1
+      },
+      "stable_intersection": [
+        "cta_cue_count",
+        "word_count",
+        "named_entity_count"
+      ]
+    },
+    "deepseek-chat": {
+      "mean_jaccard": 0.65,
+      "pairwise_jaccards": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "feature_frequencies": {
+        "cta_cue_count": 1,
+        "word_count": 5,
+        "named_entity_count": 5,
+        "flesch_kincaid_grade": 3,
+        "pronoun_first": 1
+      },
+      "stable_intersection": [
+        "word_count",
+        "named_entity_count",
+        "flesch_kincaid_grade"
+      ]
+    },
+    "claude-sonnet-4-6": {
+      "mean_jaccard": 0.65,
+      "pairwise_jaccards": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "feature_frequencies": {
+        "cta_cue_count": 1,
+        "word_count": 5,
+        "named_entity_count": 5,
+        "flesch_kincaid_grade": 3,
+        "pronoun_first": 1
+      },
+      "stable_intersection": [
+        "word_count",
+        "named_entity_count",
+        "flesch_kincaid_grade"
+      ]
+    }
+  },
+  "per_seed_summary": {
+    "0": {
+      "top3": {
+        "gpt-4.1-mini": [
+          "word_count",
+          "named_entity_count",
+          "cta_cue_count"
+        ],
+        "deepseek-chat": [
+          "word_count",
+          "named_entity_count",
+          "cta_cue_count"
+        ],
+        "claude-sonnet-4-6": [
+          "word_count",
+          "named_entity_count",
+          "cta_cue_count"
+        ]
+      }
+    },
+    "1": {
+      "top3": {
+        "gpt-4.1-mini": [
+          "word_count",
+          "named_entity_count",
+          "cta_cue_count"
+        ],
+        "deepseek-chat": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ],
+        "claude-sonnet-4-6": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ]
+      }
+    },
+    "2": {
+      "top3": {
+        "gpt-4.1-mini": [
+          "word_count",
+          "named_entity_count",
+          "pronoun_first"
+        ],
+        "deepseek-chat": [
+          "word_count",
+          "named_entity_count",
+          "pronoun_first"
+        ],
+        "claude-sonnet-4-6": [
+          "word_count",
+          "named_entity_count",
+          "pronoun_first"
+        ]
+      }
+    },
+    "3": {
+      "top3": {
+        "gpt-4.1-mini": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ],
+        "deepseek-chat": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ],
+        "claude-sonnet-4-6": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ]
+      }
+    },
+    "4": {
+      "top3": {
+        "gpt-4.1-mini": [
+          "word_count",
+          "named_entity_count",
+          "cta_cue_count"
+        ],
+        "deepseek-chat": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ],
+        "claude-sonnet-4-6": [
+          "word_count",
+          "named_entity_count",
+          "flesch_kincaid_grade"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+target_id,pair,var_a,var_b,model,winner,confidence,reasoning,swapped,persona_index
+per-001,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Jack O'Brien
+per-001,S+C+_vs_S+C-,S+C+,S+C-,gemini-2.5-flash,A,,,False,Dr. Jack O'Brien
+per-002,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,4,,False,Dr. Heather Campbell
+per-002,S+C+_vs_S+C-,S+C+,S+C-,gemini-2.5-flash,A,,,False,Dr. Heather Campbell
+per-003,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Kenji Takahashi
+per-003,S+C+_vs_S+C-,S+C+,S+C-,gemini-2.5-flash,A,,,False,Dr. Kenji Takahashi
+per-004,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Anya Petrova
+per-004,S+C+_vs_S+C-,S+C+,S+C-,gemini-2.5-flash,A,,,False,Dr. Anya Petrova
+per-005,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Raj Kumar
+per-005,S+C+_vs_S+C-,S+C+,S+C-,gemini-2.5-flash,A,,,False,Dr. Raj Kumar
+per-006,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Jun Wei Lim
+per-007,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Emma van den Berg
+per-008,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Oluwaseun Adeyemi
+per-009,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,4,,False,Dr. Zahra Mohammadi
+per-010,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Nicolas Leroy
+per-011,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Do-Yun Choi
+per-012,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Charlotte Graves
+per-013,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Thomas Peeters
+per-014,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Anna Schmidt
+per-015,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Maya Barak
+per-016,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Mariana Costa
+per-017,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Fatima Al Mazrouei
+per-018,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Michael Chen
+per-019,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Ingrid Bergstrom
+per-020,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Ethan Brown
+per-021,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,5,,False,Dr. Ryan MacDonald
+per-022,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Sakura Yamamoto
+per-023,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Martin Lepik
+per-024,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Deepa Reddy
+per-025,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,4,,False,Dr. Wei Jie Ng
+per-026,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,5,,False,Dr. Daan de Vries
+per-027,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Ngozi Adebayo
+per-028,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Amir Hashemi
+per-029,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,4,,False,Dr. Julie Petit
+per-030,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Ye-Jun Jung
+per-031,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,4,,False,Dr. Oliver Cromwell
+per-032,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Sophie Dupont
+per-033,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Thomas Weber
+per-034,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,4,,False,Dr. Tal Avraham
+per-035,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,4,,False,Dr. Pedro Santos
+per-036,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Tariq Hassan
+per-037,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Robert Kim
+per-038,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Lars Andersson
+per-039,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Chloe Taylor
+per-040,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Trevor Beauchamp
+per-041,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Ryo Sato
+per-042,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Katri Saar
+per-043,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Arjun Mehta
+per-044,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,B,,,False,Dr. Siew Mei Chong
+per-045,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Sven Visser
+per-046,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Chidi Okonkwo
+per-047,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Nasrin Hosseini
+per-048,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,4,,False,Dr. Antoine Moreau
+per-049,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Min-Jun Kang
+per-050,S+C-_vs_S-C+,S+C-,S-C+,gemini-2.5-flash,A,,,False,Dr. Emma Radcliffe
