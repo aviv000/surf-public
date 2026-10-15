@@ -63,6 +63,10 @@ framing + higher token limits + checkpointing).
 | `outputs/n100/placebo_emails.csv` / `placebo_judgments.csv` | Placebo at n=100 (rates 97/67/51/77) |
 | `outputs/claude_crossgen_clean.csv` / `claude_crossgen_judgments.csv` | Generator-swap at n=100 (100% surface preference, both judges) |
 
+| `outputs/n100/pointwise_context_judgments.csv` | Pointwise context control (800 judgments; context does not restore pointwise detection) |
+| `outputs/n100/pointwise_ablation_judgments.csv` | Pointwise entity ablation (400 judgments; stripped emails flagged more) |
+| `scripts/pointwise_controls.py` | Runner for both controls |
+
 ## ICC 2027 update (2026-10-10)
 
 Deployed-format pointwise experiment completed to the full 2x2 + a benign control:
