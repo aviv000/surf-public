@@ -47,6 +47,22 @@ Requires Python 3.10+, numpy, scipy.
 }
 ```
 
+## Completeness update (2026-10-15)
+
+All five controls are now complete at n=100. The original gaps: S+C+ cells
+truncated at max_tokens=1024 (45/100), placebo paraphrases never generated
+for 17 personas, and Claude generator-swap emails blocked by safety
+refusals for 25 personas. Fixed with: scripts/regenerate_sc_plus.py,
+scripts/complete_placebo.py, scripts/complete_crossgen.py (stimulus
+framing + higher token limits + checkpointing).
+
+| File | Description |
+|------|-------------|
+| `outputs/dissociation_emails_100.csv` | All 100 S+C+ cells regenerated |
+| `outputs/n100/pointwise_2x2_extra.csv` | Completed pointwise 2x2 (n=100 per cell) |
+| `outputs/n100/placebo_emails.csv` / `placebo_judgments.csv` | Placebo at n=100 (rates 97/67/51/77) |
+| `outputs/claude_crossgen_clean.csv` / `claude_crossgen_judgments.csv` | Generator-swap at n=100 (100% surface preference, both judges) |
+
 ## ICC 2027 update (2026-10-10)
 
 Deployed-format pointwise experiment completed to the full 2x2 + a benign control:
