@@ -1,0 +1,163 @@
+AUDIT 162/162 pass
+PASS T2 GPT S+C+: expected=2.11 computed=2.11
+PASS T2 GPT S+C-: expected=2.18 computed=2.18
+PASS T2 GPT S-C+: expected=2.04 computed=2.04
+PASS T2 GPT S-C-: expected=2.47 computed=2.47
+PASS T2 DS S+C+: expected=5.57 computed=5.57
+PASS T2 DS S+C-: expected=5.76 computed=5.76
+PASS T2 DS S-C+: expected=2.05 computed=2.05
+PASS T2 DS S-C-: expected=3.07 computed=3.07
+PASS T2 CL S+C+: expected=3.2 computed=3.2
+PASS T2 CL S+C-: expected=3.94 computed=3.94
+PASS T2 CL S-C+: expected=1.79 computed=1.79
+PASS T2 CL S-C-: expected=2.29 computed=2.29
+PASS T2 GE S+C+: expected=1.87 computed=1.87
+PASS T2 GE S+C-: expected=3.27 computed=3.27
+PASS T2 GE S-C+: expected=1.77 computed=1.77
+PASS T2 GE S-C-: expected=5.28 computed=5.28
+PASS T2 GPT Benign: expected=1.01 computed=1.01
+PASS T2 DS Benign: expected=1.0 computed=1.0
+PASS T2 CL Benign: expected=1.0 computed=1.0
+PASS T2 GE Benign: expected=1.0 computed=1.0
+PASS T2 GPT S-C+L: expected=3.1 computed=3.1
+PASS T2 DS S-C+L: expected=5.78 computed=5.78
+PASS T2 CL S-C+L: expected=3.87 computed=3.87
+PASS T2 GE S-C+L: expected=7.18 computed=7.18
+PASS T2 GPT S-C-L: expected=4.7 computed=4.7
+PASS T2 DS S-C-L: expected=6.54 computed=6.54
+PASS T2 CL S-C-L: expected=4.73 computed=4.73
+PASS T2 GE S-C-L: expected=7.76 computed=7.76
+PASS T2 GPT Ben+L: expected=3.07 computed=3.07
+PASS T2 DS Ben+L: expected=6.28 computed=6.28
+PASS T2 CL Ben+L: expected=4.1 computed=4.1
+PASS T2 GE Ben+L: expected=5.63 computed=5.63
+PASS S-C+ pooled benign %: expected=90.8 computed=90.8
+PASS CTA personas count: expected=28 computed=28
+PASS CTA 100% benign all judges: expected=True computed=True
+PASS AUC range 0.59-0.83: expected=0.59-0.83 computed=0.59-0.83
+PASS AUC vs outreach 0.13-0.27: expected=0.13-0.27 computed=0.13-0.27
+PASS recovery vs outreach 0-4%: expected=0-4 computed=0-4
+PASS outreach pooled flags 51%: expected=51 computed=51
+PASS pooled risk gap: expected=1.88 computed=1.88
+PASS persona-clustered t: expected=10.7 computed=10.7
+PASS recovery range 9-65%: expected=9-65 computed=9-65
+PASS E1 dlink GPT: expected=-45 computed=-45
+PASS E1 dlink DS: expected=-9 computed=-9
+PASS E1 dlink CL: expected=-10 computed=-10
+PASS E1 dlink GE: expected=1 computed=1
+PASS T3 CL primary: expected=47 computed=47
+PASS T3 CL placebo: expected=51 computed=51
+PASS T3 CL context: expected=49 computed=49
+PASS T3 CL order swing: expected=18 computed=18
+PASS T3 CL placebo gap: expected=4 computed=4
+PASS T3 DS primary: expected=57 computed=57
+PASS T3 DS placebo: expected=67 computed=67
+PASS T3 DS context: expected=40 computed=40
+PASS T3 DS order swing: expected=18 computed=18
+PASS T3 DS placebo gap: expected=10 computed=10
+PASS T3 GPT primary: expected=67 computed=67
+PASS T3 GPT placebo: expected=97 computed=97
+PASS T3 GPT context: expected=42 computed=42
+PASS T3 GPT order swing: expected=42 computed=42
+PASS T3 GPT placebo gap: expected=30 computed=30
+PASS T3 GE primary: expected=58 computed=58
+PASS T3 GE placebo: expected=77 computed=77
+PASS T3 GE context: expected=43 computed=43
+PASS T3 GE order swing: expected=25 computed=25
+PASS T3 GE placebo gap: expected=19 computed=18
+PASS primary GPT p: expected=0.001 computed=0.001
+PASS primary DS p: expected=0.19 computed=0.19
+PASS primary CL p: expected=0.62 computed=0.62
+PASS primary GE p: expected=0.019 computed=0.019
+PASS Holm GE: expected=0.0582 computed=0.0582
+PASS Holm GPT: expected=0.0035 computed=0.0035
+PASS context flip GPT p: expected=0.001 computed=0.001
+PASS context flip DS p: expected=0.04 computed=0.04
+PASS context flip CL n.s.: expected=True computed=True
+PASS context flip GE p: expected=0.126 computed=0.126
+PASS TOST Claude p: expected=0.042 computed=0.042
+PASS panel-any S-C+: expected=10 computed=10
+PASS panel-maj S-C+: expected=9 computed=9
+PASS panel FPR benign: expected=0 computed=0
+PASS panel-any S-C+L: expected=100 computed=100
+PASS rubric P1 TPR GPT: expected=2 computed=2
+PASS rubric P1 FPR-B GPT: expected=0 computed=0
+PASS rubric P1 FPR-hard GPT: expected=74 computed=74
+PASS rubric P1 TPR DS: expected=93 computed=93
+PASS rubric P1 FPR-B DS: expected=0 computed=0
+PASS rubric P1 FPR-hard DS: expected=100 computed=100
+PASS rubric P1 TPR CL: expected=98 computed=98
+PASS rubric P1 FPR-B CL: expected=0 computed=0
+PASS rubric P1 FPR-hard CL: expected=98 computed=98
+PASS rubric P1 TPR GE: expected=68 computed=68
+PASS rubric P1 FPR-B GE: expected=3 computed=3
+PASS rubric P1 FPR-hard GE: expected=96 computed=96
+PASS BERT flags S-C+: expected=0 computed=0
+PASS BERT flags benign: expected=0 computed=0
+PASS BERT flags S-C+L: expected=0 computed=0
+PASS in-context flags GPT: expected=87 computed=87
+PASS appended flags GPT: expected=97 computed=97
+PASS appended-susp flags GPT: expected=100 computed=100
+PASS in-context flags DS: expected=100 computed=100
+PASS appended flags DS: expected=77 computed=77
+PASS appended-susp flags DS: expected=100 computed=100
+PASS in-context flags CL: expected=100 computed=100
+PASS appended flags CL: expected=67 computed=67
+PASS appended-susp flags CL: expected=100 computed=100
+PASS in-context flags GE: expected=100 computed=100
+PASS appended flags GE: expected=100 computed=100
+PASS appended-susp flags GE: expected=100 computed=100
+PASS held-out S-C+ benign GPT: expected=100 computed=100
+PASS held-out link cells benign GPT: expected=0 computed=0
+PASS held-out S-C+ benign DS: expected=100 computed=100
+PASS held-out link cells benign DS: expected=0 computed=0
+PASS held-out S-C+ benign CL: expected=100 computed=100
+PASS held-out link cells benign CL: expected=0 computed=0
+PASS held-out S-C+ benign GE: expected=87 computed=87
+PASS held-out link cells benign GE: expected=0 computed=0
+PASS DIDECO subset n: expected=197 computed=197
+PASS DIDECO link-free n: expected=104 computed=104
+PASS SpaPhish subset n: expected=26 computed=26
+PASS SpaPhish legit n: expected=100 computed=100
+PASS CLAIR fraud n: expected=100 computed=100
+PASS CLAIR ham n: expected=100 computed=100
+PASS Gemini within-persona first win: expected=71 computed=71
+PASS Gemini within-persona second win: expected=46 computed=46
+PASS Gemini within-persona McNemar p: expected=0.001 computed=0.001
+PASS DIDECO flags GPT: expected=87 computed=87
+PASS DIDECO flags DS: expected=86 computed=86
+PASS DIDECO flags CL: expected=86 computed=86
+PASS DIDECO flags GE: expected=88 computed=88
+PASS DIDECO 1-2 intents flags: expected=94 computed=94
+PASS DIDECO 5-9 intents flags: expected=50 computed=50
+PASS SpaPhish flags GPT: expected=100 computed=100
+PASS SpaPhish flags DS: expected=100 computed=100
+PASS SpaPhish flags CL: expected=96 computed=96
+PASS SpaPhish flags GE: expected=100 computed=100
+PASS SpaPhish pooled flags: expected=99 computed=99
+PASS spaphish_legit flags GPT: expected=5 computed=5
+PASS spaphish_legit flags DS: expected=13 computed=13
+PASS spaphish_legit flags CL: expected=11 computed=11
+PASS spaphish_legit flags GE: expected=41 computed=41
+PASS spaphish_legit pooled flags: expected=18 computed=18
+PASS clair_ham flags GPT: expected=33 computed=33
+PASS clair_ham flags DS: expected=13 computed=13
+PASS clair_ham flags CL: expected=1 computed=1
+PASS clair_ham flags GE: expected=54 computed=54
+PASS clair_ham pooled flags: expected=25 computed=25
+PASS clair_fraud flags GPT: expected=99 computed=99
+PASS clair_fraud flags DS: expected=98 computed=98
+PASS clair_fraud flags CL: expected=98 computed=98
+PASS clair_fraud flags GE: expected=100 computed=100
+PASS clair_fraud pooled flags: expected=99 computed=99
+PASS repeat agreement range min: expected=64 computed=64
+PASS repeat agreement range max: expected=100 computed=100
+PASS repeat pooled agreement: expected=93 computed=93
+PASS matched ask-bearing AUC min: expected=5 computed=5
+PASS matched ask-bearing AUC max: expected=21 computed=21
+PASS matched ask-free AUC min: expected=61 computed=61
+PASS matched ask-free AUC max: expected=82 computed=82
+PASS outreach AUC CI min: expected=7 computed=7
+PASS outreach AUC CI max: expected=33 computed=34
+PASS scorer direction agreement n: expected=87 computed=87
+PASS placebo paraphrase cosine: expected=0.993 computed=0.993

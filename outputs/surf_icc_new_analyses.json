@@ -1,0 +1,133 @@
+{
+ "generated": "2026-10-04",
+ "entity_ablation": {
+  "n_personas": 100,
+  "transform": "two-pass lowercase-generics with lexical gate (zero INST/titles/years/numbers)",
+  "word_count_ratio": {
+   "mean": 1.024,
+   "min": 0.942,
+   "max": 1.129
+  },
+  "judges": {
+   "gpt-4.1-mini": "100/100",
+   "deepseek-chat": "100/100",
+   "claude-sonnet-4-6": "100/100",
+   "gemini-2.5-flash": "100/100"
+  },
+  "binomial_p": "< 0.001 (exact)"
+ },
+ "stripping_recovery_flip": {
+  "gpt-4.1-mini": "66/67",
+  "gemini-2.5-flash": "72/72",
+  "deepseek-chat": "56/57",
+  "claude-sonnet-4-6": "47/47"
+ },
+ "lexicon_sensitivity": {
+  "surface_separation_holds": true,
+  "content_separation_holds": true,
+  "perturbations": "+-50% per weight, 6 sets each"
+ },
+ "order_effects": {
+  "note": "winner is variant-normalized at collection (judge_dissociation.py un-swaps); Gemini order arm refilled 2026-10-26 (300 cells), all judges now both-orders n=200 per pair.",
+  "primary_pair_order_swings": {
+   "gpt-4.1-mini": {
+    "var_a_first": 0.88,
+    "var_a_second": 0.46,
+    "swing": 0.42,
+    "direction": "first-position"
+   },
+   "deepseek-chat": {
+    "var_a_first": 0.48,
+    "var_a_second": 0.66,
+    "swing": 0.18,
+    "direction": "second-position"
+   },
+   "claude-sonnet-4-6": {
+    "var_a_first": 0.56,
+    "var_a_second": 0.38,
+    "swing": 0.18,
+    "direction": "first-position"
+   },
+   "gemini-2.5-flash": {
+    "var_a_first": 0.76,
+    "var_a_second": 0.6,
+    "swing": 0.16,
+    "direction": "first-position"
+   }
+  },
+  "order_balanced_primary": {
+   "gpt-4.1-mini": 0.67,
+   "deepseek-chat": 0.57,
+   "claude-sonnet-4-6": 0.47,
+   "gemini-2.5-flash": 0.585
+  },
+  "gemini_balanced_ci": [
+   0.6,
+   0.77
+  ],
+  "pooled_position_covariate": {
+   "log_odds": 0.128,
+   "p": 0.693
+  },
+  "entity_ablation_order_invariance": "verified (winners track variant in both orders)",
+  "gemini-2.5-flash": {
+   "var_a_first": 0.71,
+   "var_a_second": 0.46,
+   "swing": 0.25,
+   "direction": "first-position"
+  }
+ },
+ "placebo_pair": {
+  "original_pref_pooled": 0.72,
+  "gpt-4.1-mini": 0.964,
+  "deepseek-chat": 0.651,
+  "claude-sonnet-4-6": 0.494,
+  "gemini-2.5-flash": 0.771,
+  "note": "n=83 rows per judge (17 personas failed paraphrase gate); protocol not null-calibrated; reported as calibration cell"
+ },
+ "context_control": {
+  "gpt-4.1-mini": 0.58,
+  "deepseek-chat": 0.6,
+  "claude-sonnet-4-6": 0.51,
+  "gemini-2.5-flash": 0.57,
+  "note": "with recipient profile in prompt, primary pair surface preference n.s. for all four judges; surface dominance conditional on context omission"
+ },
+ "ott_rejudged": {
+  "pairing": "documented index pairing: truthful rev-i vs deceptive rev-(i+25)",
+  "chose_sc_minus_rates": {
+   "gpt-4.1-mini": 0.56,
+   "deepseek-chat": 0.52,
+   "claude-sonnet-4-6": 0.56,
+   "gemini-2.5-flash": 0.48
+  },
+  "order_balanced": {
+   "gpt-4.1-mini": 0.583,
+   "deepseek-chat": 0.494,
+   "claude-sonnet-4-6": 0.529,
+   "gemini-2.5-flash": 0.487
+  },
+  "all_ns": true,
+  "note": "NEGATIVE replication: old 68/72/76% numbers came from an unreproducible pairing (map lost); paper now reports the boundary check at chance"
+ },
+ "pointwise_transfer": {
+  "task": "pointwise phishing risk 1-10 + verdict (phishing/benign/suspicious), one email per call",
+  "n": "800 judgments, 400 paired obs (100 personas x 4 judges)",
+  "pooled_risk_gap": 1.88,
+  "pooled_paired_t": 14.7,
+  "pooled_p": 1.67e-39,
+  "per_judge_gap": {
+   "gpt-4.1-mini": 0.14,
+   "deepseek-chat": 3.71,
+   "claude-sonnet-4-6": 2.15,
+   "gemini-2.5-flash": 1.5
+  },
+  "per_judge_p": {
+   "gpt-4.1-mini": 0.34,
+   "deepseek-chat": "<0.001",
+   "claude-sonnet-4-6": "<0.001",
+   "gemini-2.5-flash": "<0.001"
+  },
+  "verdict_escalation": "54% of pairs more dangerous for S+C-; 3.5% de-escalation",
+  "note": "GPT-4.1-mini (strongest PAIRWISE surface judge) shows no pointwise transfer; DeepSeek (weakest pairwise) shows the largest: bias is format- and judge-specific"
+ }
+}
